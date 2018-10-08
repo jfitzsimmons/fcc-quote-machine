@@ -12,8 +12,8 @@ class App extends Component {
         <div id="author" className="">
 
         </div>
-        <button id="tweet-quote" className="">
-          <a href="twitter.com/intent/tweet">Tweet</a>
+        <button className="">
+          <a id="tweet-quote" href="twitter.com/intent/tweet">Tweet</a>
         </button>
         <button id="new-quote" className="" >
           New Quote
